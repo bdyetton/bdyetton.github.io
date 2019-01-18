@@ -6,7 +6,7 @@ only some state contain rewards, and there are different transition probabilitie
 Like most algorithms and models, writing a jargon filled description is not enlightening. 
 So lets jump into an example to help motivate the idea!
 
-##Academia or Industry?
+## Academia or Industry?
 This is the question I have been churning over in my head for the last 2 years. After finishing my PhD, do I take the 
 long arduous route of becoming a tenured professor? Or jump into an "industry" position, i.e. working for a company.
 Each has its pros and cons:
